@@ -1,0 +1,18 @@
+grade,uns,family,main_elements,known_for,typical_bar_spec,typical_plate_spec
+Nickel 200,N02200,Commercially pure nickel,Ni 99% min,Caustic alkalis and food-grade service,ASTM B160,ASTM B162
+Monel 400,N04400,Nickel-copper,Ni-Cu,Seawater and hydrofluoric acid,ASTM B164,ASTM B127
+Monel K-500,N05500,Nickel-copper (age hardening),Ni-Cu-Al-Ti,High strength with seawater resistance (pump shafts and fasteners),ASTM B865,n/a
+Inconel 600,N06600,Nickel-chromium-iron,Ni-Cr-Fe,Heat and oxidation resistance; chloride stress corrosion resistance,ASTM B166,ASTM B168
+Inconel 601,N06601,Nickel-chromium-iron,Ni-Cr-Fe-Al,Oxidation resistance at high temperature,ASTM B166,ASTM B168
+Inconel 625,N06625,Nickel-chromium-molybdenum,Ni-Cr-Mo-Nb,Pitting and crevice resistance; seawater and chemical service,ASTM B446,ASTM B443
+Inconel 718,N07718,Nickel-chromium (age hardening),Ni-Cr-Fe-Nb-Mo,High strength up to about 650 C,ASTM B637,ASTM B670
+Inconel X-750,N07750,Nickel-chromium (age hardening),Ni-Cr-Fe-Ti-Al-Nb,Springs and fasteners at elevated temperature,ASTM B637,ASTM B670
+Incoloy 800,N08800,Nickel-iron-chromium,Fe-Ni-Cr,Heat exchangers and process piping at high temperature,ASTM B408,ASTM B409
+Incoloy 800H,N08810,Nickel-iron-chromium,Fe-Ni-Cr (higher carbon),Creep strength at high temperature,ASTM B408,ASTM B409
+Incoloy 825,N08825,Nickel-iron-chromium-molybdenum,Ni-Fe-Cr-Mo-Cu,Sulfuric and phosphoric acid service,ASTM B425,ASTM B424
+Alloy 20,N08020,Nickel-iron-chromium,Fe-Ni-Cr-Mo-Cu,Sulfuric acid service,ASTM B473,ASTM B463
+Hastelloy C-276,N10276,Nickel-molybdenum-chromium,Ni-Mo-Cr-W,Mixed acids and chloride-bearing process streams,ASTM B574,ASTM B575
+Hastelloy C-22,N06022,Nickel-chromium-molybdenum,Ni-Cr-Mo-W,Strongly oxidizing and mixed acid conditions,ASTM B574,ASTM B575
+Hastelloy C-2000,N06200,Nickel-chromium-molybdenum,Ni-Cr-Mo-Cu,Both oxidizing and reducing acids,ASTM B574,ASTM B575
+Hastelloy B-3,N10675,Nickel-molybdenum,Ni-Mo,Pure reducing acids such as hydrochloric acid,ASTM B335,ASTM B333
+Hastelloy X,N06002,Nickel-chromium-iron-molybdenum,Ni-Cr-Fe-Mo,Oxidation resistance in gas turbine parts,ASTM B572,ASTM B435
